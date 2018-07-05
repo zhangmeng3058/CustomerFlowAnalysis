@@ -5,13 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.practice.work</groupId>
-    <artifactId>CustomerFlowAnalysis</artifactId>
+    <artifactId>data-analysis</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>data-loader</module>
-        <module>data-analysis</module>
-    </modules>
 
     <repositories>
         <repository>

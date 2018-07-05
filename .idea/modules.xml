@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data-analysis/dataanalysis.iml" filepath="$PROJECT_DIR$/data-analysis/dataanalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-loader/dataloader.iml" filepath="$PROJECT_DIR$/data-loader/dataloader.iml" />
+    </modules>
+  </component>
+</project>
